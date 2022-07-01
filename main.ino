@@ -3,7 +3,7 @@
 #include <Adafruit_Sensor.h>
 #include <DHT.h>
 
-// Replace with your network credentials
+// Replace with your network
 const char* ssid = "REPLACE_WITH_YOUR_SSID";
 const char* password = "REPLACE_WITH_YOUR_PASSWORD";
 
